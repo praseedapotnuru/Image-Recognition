@@ -1,0 +1,20 @@
+body {
+	color: white;
+	background: deepskyblue;
+}
+
+.heading {
+	font-size: 20px;
+	width: 80%;
+}
+
+#camera {
+	width: 350px;
+	height: 300px;
+	border: 4px solid white;
+}
+
+.name_of_objects, #result_object_name, #result_object_accuracy {
+	color: deepskyblue;
+	background: white;
+}
